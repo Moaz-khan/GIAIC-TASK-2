@@ -1,1 +1,1 @@
-# moazkhan-simple-calculator
+# GIAIC task 2
